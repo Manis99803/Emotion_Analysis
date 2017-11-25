@@ -5,9 +5,9 @@ An application which analysze the emotion the emotion of tweets of a twitter use
 
 //Things which are to be installed to run the file
 
-nltk
-tkinter (If windows user)
-numpy
+nltk,
+tkinter (If windows user),
+numpy,
 BeautifulSoup
 
 
